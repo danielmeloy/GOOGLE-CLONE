@@ -1,0 +1,38 @@
+ <!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<title> Fake Google</title>
+</head>
+<body>
+	<ul id="links">
+		<li><a href="https://profiles.google.com/?hl=en&tab=wX">daniel@robo-co.com</a></li>
+		<li><a href="http://www.google.com/intl/en/options/"><img id="grid" src="grid.png"></a>
+		<li><a href="https://www.google.com/imghp?hl=en&tab=wi&ei=QQy2U6aHG5CZqAa_1YHIAg&ved=0CAQQqi4oAg">Images</li>
+		<LI><a href="https://mail.google.com/mail/?tab=wm">Gmail</LI>
+		<li><a href="https://plus.google.com/u/0/?gpsrc=ogpy0&tab=wX">+You</a></li>
+	</ul>
+<img id="logo" src="google-logo.png">
+<div id="search">
+	<input type="text">
+	<a href="mlb.com"></a>
+</div>	
+<div id="buttonbox">
+	<div id="buttons">
+		<button type="button">Google Search</button>
+		<button type="button">I'm Feeling Lucky</button>
+	</div>	
+</div>	
+<footer>
+	<div id="footer">
+		<ul>
+			<li>Advertising</li>
+			<li>Business</li>
+			<li id="about">About</li>
+			<li class="rightfooter">Privacy & Terms</li>
+			<li>Settings</li>
+		</ul>
+	</div>
+</footer>		
+</body>
+</html>
